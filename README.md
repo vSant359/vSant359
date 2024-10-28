@@ -35,7 +35,3 @@ Here are some of my projects where I apply my skills:
 ### 📫 Let's Connect!
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-santana-300728224)](https://www.linkedin.com/in/vitor-santana-300728224)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/vSant359)](https://github.com/vSant359)
-
----
-
-<p align="center">✨ Let's build something amazing together! ✨</p>
