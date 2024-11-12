@@ -27,7 +27,7 @@
 ### 💼 Highlighted Projects
 Here are some of my projects where I apply my skills:
 
-- **[Library Management Project](https://github.com/seu_usuario/biblioteca)**: Book management system in Python.
+- **[Library Management Project](https://github.com/vSant359/Projetos-Gerais)**: Book management system in Python.
 
 ---
 
