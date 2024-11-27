@@ -24,6 +24,10 @@
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vSant359&show_icons=true&count_private=true&hide=prs)
+
+---
+
 ### 💼 Highlighted Projects
 Here are some of my projects where I apply my skills:
 
