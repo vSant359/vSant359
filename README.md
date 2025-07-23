@@ -31,7 +31,7 @@
 ### 💼 Highlighted Projects
 Here are some of my projects where I apply my skills:
 
-- **[Library Management Project](https://github.com/vSant359/Library.git)**: Book management system in Python.
+- **[Finance Tracker Project](https://github.com/vSant359/Personal-Finance-Tracker)**: Personal Finance Tracker.
 
 ---
 
